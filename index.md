@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to this GitHub TSS project page
 
-You can use the [editor on GitHub](https://github.com/walter-1/walter-1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can download current version of CMD based TSS: https://github.com/walter-1/TSS/blob/master/tss_tools_v1.71c.zip
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Purpose: 
+Multi-purpose Windows CMD based Troubleshooting tool to simplify just-in-time rapid data collection for standard and sporadic issues in in complex environments - or is to be considered as a convenient method for submitting and following simplified action plans.
+Copy the tss_tools_*.zip file and expand it to local disk, i.e. into C:\tools folder; in some scenarios we need to find the additional tools either provided in zip or externally i.e. Sysinternals tools in the path, and the script adds PATH and searches in extracted C:\tools by default.
+Please start the script in the C:\tools folder in elevated CMD window.
+C:\tools>  tss [parameter list]
+Please invoke the tss command with necessary/appropriate parameters from here.
+For help of available parameters just type: TSS (or TSS /help)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/walter-1/walter-1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
