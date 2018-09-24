@@ -9,10 +9,18 @@ Copy the tss_tools_*.zip file and expand it to local disk, i.e. into _C:\tools_ 
 
 Please start the script in the C:\tools folder in elevated CMD window.
 
-`C:\tools>  tss [parameter list]`
+`C:\tss_tools>  tss [parameter list]`
 
 Please invoke the tss command with necessary/appropriate parameters from here.
 
+### Usage:
 For help of available parameters just type: **TSS** (or **TSS /help**)
 
 
+##  psTSS - PowerShell based TSS (in development stage)
+This is the Windows PowerShell based equivalent for the CMD based TSS toolset
+
+You can download current version of PowerShell based psTSS: https://github.com/walter-1/psTSS/blob/master/psTss_v1.04.zip
+
+### Usage:
+`PS C:\tss_tools>  get-help .\psTSS `
